@@ -1,0 +1,3 @@
+[submodule "indeed-scaper-v2"]
+	path = indeed-scaper-v2
+	url = https://github.com/haydenhw/pj2-indeed
