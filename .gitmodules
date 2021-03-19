@@ -1,0 +1,6 @@
+[submodule "indeed-scaper-v2"]
+	path = indeed-scaper-v2
+	url = https://github.com/haydenhw/pj2-indeed
+[submodule "indeed-scraper-v1"]
+	path = indeed-scraper-v1
+	url = git@github.com:rajurana20/project4python.git
